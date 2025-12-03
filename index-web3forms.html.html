@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web3Forms Test</title>
+</head>
+<body>
+    <h1>Contact Form — Web3Forms Version</h1>
+    
+    <!-- Web3Forms Form Configuration -->
+    <form action="https://api.web3forms.com/submit" method="POST">
+        <!-- Replaced Access Key below -->
+        <input type="hidden" name="access_key" value="9455e29d-856d-4e8b-8d44-e419d56395c4">
+        
+        <!-- Optional: Redirect to this page after submission -->
+        <!-- <input type="hidden" name="redirect" value="https://yourusername.github.io/success"> -->
+
+        <div style="margin-bottom: 10px;">
+            <input type="text" name="name" placeholder="Name" required>
+        </div>
+        <div style="margin-bottom: 10px;">
+            <input type="email" name="email" placeholder="Email" required>
+        </div>
+        <div style="margin-bottom: 10px;">
+            <textarea name="message" placeholder="Message" required></textarea>
+        </div>
+        <button type="submit">Send Test Message</button>
+    </form>
+
+    <p>Status: Ready to test on GitHub Pages.</p>
+</body>
+</html>
