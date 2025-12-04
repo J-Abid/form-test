@@ -1,7 +1,5 @@
 # form-test #
-**Test form email template**
-https://j-abid.github.io/form-test/
-
+**Test form email template - Made by Junaid Abid**
 
 Contact Form Backend Integration Tests
 
@@ -45,8 +43,7 @@ Evaluates spam filtering and submission dashboard connectivity.
 
 Live Demo
 
-You can test the live implementations here: [Link to your GitHub Page]
-(Note: Replace the link above with your actual GitHub Pages URL, e.g., https://www.google.com/search?q=https://yourusername.github.io)
+You can test the live implementations here: https://j-abid.github.io/form-test/
 
 Technologies Used
 
