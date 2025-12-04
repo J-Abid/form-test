@@ -41,9 +41,7 @@ Tests standard POST submission flow.
 
 Evaluates spam filtering and submission dashboard connectivity.
 
-Live Demo
-
-You can test the live implementations here: https://j-abid.github.io/form-test/
+Live Demo: You can test the live implementations here: https://j-abid.github.io/form-test/
 
 Technologies Used
 
